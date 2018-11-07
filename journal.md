@@ -23,6 +23,9 @@ Machine learning has been used to perform analysis.
 A high sensitivity and specifity is observed
 
 # Conclusions
+
+# Figures
+Figures for the paper will appear here
 We made some ground breaking discoveries to perform analysis.
 
 
