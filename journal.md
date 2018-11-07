@@ -4,6 +4,7 @@ The Best Adventure inspired by District heating simulation data.
 
 
 # Author
+Ruth Stoney, mwahaha
 Asad Ashfaq, University of Nottingham
 Saba Ferdous, University of Manchester
 
