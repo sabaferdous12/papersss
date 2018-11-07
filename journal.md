@@ -17,3 +17,6 @@ which provided great insights.
 
 # Methodolgy 
 Machine learning has been used to perform analysis.
+
+# Conclusions
+We made some ground breaking discoveries to perform analysis.
